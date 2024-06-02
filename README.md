@@ -7,7 +7,8 @@ Search by city name: Enter the name of a city and get the current weather condit
 Detailed information: View key weather details like temperature, feels like, humidity, pressure, and more.
 User-friendly interface: Simple and intuitive design for quick access to weather information.
 
-language used
+language used:
+
 Kotlin: Used for the main app logic, including user interface handling, network communication, and data parsing.
 
 Java: While Kotlin is preferred, some existing Android libraries and frameworks might still be written in Java. This project might use Java for specific functionalities.
